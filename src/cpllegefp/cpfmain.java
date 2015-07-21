@@ -52,7 +52,6 @@ public class cpfmain extends javax.swing.JFrame {
         jPanel1.add(jLabel2);
         jLabel2.setBounds(160, 260, 276, 29);
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\lopa\\Downloads\\appimg.jpg")); // NOI18N
         jLabel3.setText("jLabel3");
         jPanel1.add(jLabel3);
         jLabel3.setBounds(80, 10, 430, 240);
@@ -65,7 +64,7 @@ public class cpfmain extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.DEFAULT_SIZE, 559, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
